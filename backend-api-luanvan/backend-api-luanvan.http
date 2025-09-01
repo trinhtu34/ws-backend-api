@@ -1,0 +1,6 @@
+@backend_backend_api_luanvan_HostAddress = http://localhost:5252
+
+GET {{backend_backend_api_luanvan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
