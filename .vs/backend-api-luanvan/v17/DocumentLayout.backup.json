@@ -1,69 +1,81 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\",
+  "WorkspaceRootPath": "D:\\.vs\\ws-backend-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\models\\dbluanvan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\models\\dbluanvan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\controllers\\cartdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\controllers\\cartdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\models\\dbluanvan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\models\\dbluanvan2context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\datatransferobject\\dto_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\controllers\\cartdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\controllers\\cartdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\datatransferobject\\dto_menufull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_menufull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_menufull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\backend-api-luanvan.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\backend-api-luanvan.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\backend-api-luanvan.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\datatransferobject\\dto_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\datatransferobject\\dto_orderfooddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_orderfooddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_orderfooddetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\datatransferobject\\dto_cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\datatransferobject\\dto_cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\datatransferobject\\dto_cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\learn_asp.net_core\\backend-api-luanvan\\backend-api-luanvan\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|d:\\.vs\\ws-backend-api\\backend-api-luanvan\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{742AF1E0-C0C1-431D-8EE8-E4246A615FF9}|backend-api-luanvan\\backend-api-luanvan.csproj|solutionrelative:backend-api-luanvan\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,15 +86,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:13:02.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Models\\Role.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Role.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:12:32.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DTO_Roles.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_Roles.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_Roles.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_Roles.cs",
+              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T06:12:26.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\.env",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\.env",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\.env",
+              "RelativeToolTip": "backend-api-luanvan\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T10:27:48.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DTO_UpdateUser.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
+              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:29:49.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTO_OrderFoodDetail.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
+              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:29:47.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTO_CartDetail.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
+              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:29:43.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartDetailController.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CartDetailController.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\CartDetailController.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CartDetailController.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Controllers\\CartDetailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:29:38.476Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CartController.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:28:47.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Program.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Program.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Program.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:27:35.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dbluanvan2Context.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
+              "RelativeToolTip": "backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwDQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T08:32:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\appsettings.json",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\appsettings.json",
               "RelativeDocumentMoniker": "backend-api-luanvan\\appsettings.json",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\appsettings.json",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\appsettings.json",
               "RelativeToolTip": "backend-api-luanvan\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -91,37 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": ".env",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\.env",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\.env",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\.env",
-              "RelativeToolTip": "backend-api-luanvan\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-01T10:27:48.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Dockerfile",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\Dockerfile",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Dockerfile",
-              "RelativeToolTip": "backend-api-luanvan\\Dockerfile",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-01T08:31:19.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "OrderTable.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\OrderTable.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\OrderTable.cs",
               "RelativeDocumentMoniker": "backend-api-luanvan\\Models\\OrderTable.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\OrderTable.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\OrderTable.cs",
               "RelativeToolTip": "backend-api-luanvan\\Models\\OrderTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,99 +254,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DTO_UpdateUser.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
-              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_UpdateUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:29:49.791Z"
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Dockerfile",
+              "RelativeDocumentMoniker": "backend-api-luanvan\\Dockerfile",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Dockerfile",
+              "RelativeToolTip": "backend-api-luanvan\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-01T08:31:19.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "DTO_OrderFoodDetail.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
-              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_OrderFoodDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:29:47.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DTO_CartDetail.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
-              "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_CartDetail.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:29:43.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CartDetailController.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CartDetailController.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\CartDetailController.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CartDetailController.cs",
-              "RelativeToolTip": "backend-api-luanvan\\Controllers\\CartDetailController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:29:38.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\CartController.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CartController.cs",
-              "RelativeToolTip": "backend-api-luanvan\\Controllers\\CartController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:28:47.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dbluanvan2Context.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
-              "RelativeToolTip": "backend-api-luanvan\\Models\\Dbluanvan2Context.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAvwDIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:32:20.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Program.cs",
-              "RelativeDocumentMoniker": "backend-api-luanvan\\Program.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Program.cs",
-              "RelativeToolTip": "backend-api-luanvan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:27:35.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Menu.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\Menu.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Menu.cs",
               "RelativeDocumentMoniker": "backend-api-luanvan\\Models\\Menu.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Models\\Menu.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Models\\Menu.cs",
               "RelativeToolTip": "backend-api-luanvan\\Models\\Menu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,50 +279,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "backend-api-luanvan.csproj.Backup.tmp",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
               "RelativeDocumentMoniker": "backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
               "RelativeToolTip": "backend-api-luanvan\\backend-api-luanvan.csproj.Backup.tmp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-09-01T08:30:06.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:30:06.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DTO_MenuFull.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
               "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
               "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_MenuFull.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:31:15.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:31:15.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DTO_ContactForm.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
               "RelativeDocumentMoniker": "backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
               "RelativeToolTip": "backend-api-luanvan\\DataTransferObject\\DTO_ContactForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T08:31:16.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-01T08:31:16.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CategoryController.cs",
+              "DocumentMoniker": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "backend-api-luanvan\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\.vs\\Learn_ASP.NET_core\\backend-api-luanvan\\backend-api-luanvan\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\.vs\\ws-backend-api\\backend-api-luanvan\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "backend-api-luanvan\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
